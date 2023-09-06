@@ -12,9 +12,11 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestAdaptSimpleTypoWithGuidance": [
+        false,
         false,
         false,
         false,
@@ -42,9 +44,11 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestAgentProtocol_CreateAgentTask": [
+        false,
         false,
         false,
         false,
@@ -84,9 +88,11 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestAgentProtocol_GetAgentTask": [
+        false,
         false,
         false,
         false,
@@ -126,9 +132,11 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestAgentProtocol_ListAgentTasksIds": [
+        false,
         false,
         false,
         false,
@@ -162,6 +170,7 @@
         true,
         true,
         false,
+        true,
         true
     ],
     "TestBasicRetrieval": [
@@ -176,6 +185,7 @@
         true,
         true,
         true,
+        false,
         false,
         false,
         false,
@@ -198,6 +208,7 @@
         false,
         true,
         false,
+        false,
         false
     ],
     "TestDebugSimpleTypoWithGuidance": [
@@ -219,6 +230,7 @@
         true,
         true,
         true,
+        true,
         true
     ],
     "TestDebugSimpleTypoWithoutGuidance": [
@@ -233,6 +245,7 @@
         true,
         true,
         true,
+        false,
         false,
         false
     ],
@@ -249,14 +262,17 @@
         true,
         true,
         false,
+        false,
         false
     ],
     "TestGetEthereumGasPrice": [
         false,
         false,
+        false,
         false
     ],
     "TestPasswordGenerator_Easy": [
+        false,
         false,
         false,
         false,
@@ -286,6 +302,7 @@
         true,
         false,
         false,
+        true,
         true,
         true,
         true,
@@ -323,6 +340,7 @@
         true,
         true,
         true,
+        true,
         true
     ],
     "TestRememberGoal_Advanced": [
@@ -338,6 +356,7 @@
         true,
         false,
         false,
+        true,
         true
     ],
     "TestRememberGoal_Hard": [
@@ -359,6 +378,7 @@
         true,
         false,
         false,
+        true,
         true
     ],
     "TestRememberGoal_Medium": [
@@ -374,6 +394,7 @@
         true,
         false,
         false,
+        true,
         true
     ],
     "TestRememberGoal_Simple": [
@@ -395,6 +416,7 @@
         true,
         false,
         false,
+        true,
         true
     ],
     "TestRememberMultipleIds": [
@@ -410,6 +432,7 @@
         true,
         false,
         false,
+        true,
         true
     ],
     "TestRememberMultipleIdsWithNoise": [
@@ -425,6 +448,7 @@
         false,
         false,
         false,
+        true,
         true
     ],
     "TestRememberMultiplePhrasesWithNoise": [
@@ -440,9 +464,11 @@
         false,
         false,
         false,
-        false
+        false,
+        true
     ],
     "TestRetrieval3": [
+        false,
         false,
         false,
         false,
@@ -476,6 +502,7 @@
         true,
         true,
         false,
+        false,
         false
     ],
     "TestReturnCode_Simple": [
@@ -491,9 +518,11 @@
         true,
         true,
         true,
-        false
+        false,
+        true
     ],
     "TestReturnCode_Tests": [
+        false,
         false,
         false,
         false,
@@ -521,9 +550,11 @@
         true,
         true,
         false,
+        false,
         false
     ],
     "TestRevenueRetrieval_1.0": [
+        false,
         false,
         false,
         false,
@@ -563,9 +594,11 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestRevenueRetrieval_1.2": [
+        false,
         false,
         false,
         false,
@@ -605,6 +638,7 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestThreeSum": [
@@ -626,9 +660,15 @@
         true,
         true,
         false,
+        false,
+        false
+    ],
+    "TestUrlShortener": [
+        false,
         false
     ],
     "TestWebApp_ListAnimals": [
+        false,
         false,
         false,
         false,
@@ -656,6 +696,7 @@
         true,
         true,
         true,
+        true,
         true
     ],
     "TestWrite6Files": [
@@ -671,6 +712,7 @@
         true,
         true,
         true,
+        true,
         true
     ],
     "TestWriteFile": [
@@ -682,6 +724,7 @@
         true,
         false,
         false,
+        true,
         true,
         true,
         true,
@@ -713,9 +756,7 @@
         false,
         false,
         false,
-        false
-    ],
-    "TestUrlShortener": [
+        false,
         false
     ]
 }
