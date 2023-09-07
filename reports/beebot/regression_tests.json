@@ -15,10 +15,6 @@
         "difficulty": "intermediate",
         "data_path": "agbenchmark/challenges/deprecated/code/c2_debug_suite/d2.2_vague/data.json"
     },
-    "TestPasswordGenerator_Easy": {
-        "difficulty": "basic",
-        "data_path": "agbenchmark/challenges/deprecated/code/c4_writing_cli_suite_3/1_password_generator/data.json"
-    },
     "TestReadFile": {
         "difficulty": "interface",
         "data_path": "agbenchmark/challenges/deprecated/interface/read_file/data.json"
