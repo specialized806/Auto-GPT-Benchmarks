@@ -1,3 +1,5 @@
+## This repo has been deprecated. The benchmark code is now in the main AutoGPT repo: https://github.com/Significant-Gravitas/Auto-GPT
+
 # Auto-GPT Benchmarks
 
 Built for the purpose of benchmarking the performance of agents regardless of how they work.
