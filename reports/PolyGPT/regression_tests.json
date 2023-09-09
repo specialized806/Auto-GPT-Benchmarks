@@ -43,6 +43,14 @@
         "difficulty": "novice",
         "data_path": "agbenchmark/challenges/deprecated/memory/m2_multiple/data.json"
     },
+    "TestRememberMultipleIdsWithNoise": {
+        "difficulty": "intermediate",
+        "data_path": "agbenchmark/challenges/deprecated/memory/m3_noise/data.json"
+    },
+    "TestRememberMultiplePhrasesWithNoise": {
+        "difficulty": "advanced",
+        "data_path": "agbenchmark/challenges/deprecated/memory/m4_phrases/data.json"
+    },
     "TestSearch": {
         "difficulty": "interface",
         "data_path": "agbenchmark/challenges/deprecated/interface/search/data.json"
@@ -58,13 +66,5 @@
     "TestWriteFile": {
         "difficulty": "interface",
         "data_path": "agbenchmark/challenges/deprecated/interface/write_file/data.json"
-    },
-    "TestRememberMultipleIdsWithNoise": {
-        "difficulty": "intermediate",
-        "data_path": "agbenchmark/challenges/deprecated/memory/m3_noise/data.json"
-    },
-    "TestRememberMultiplePhrasesWithNoise": {
-        "difficulty": "advanced",
-        "data_path": "agbenchmark/challenges/deprecated/memory/m4_phrases/data.json"
     }
 }
