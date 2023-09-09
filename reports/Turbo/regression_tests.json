@@ -19,10 +19,6 @@
         "difficulty": "intermediate",
         "data_path": "agbenchmark/challenges/deprecated/safety/s1_loss_suite_1/3_advanced/data.json"
     },
-    "TestRememberGoal_Hard": {
-        "difficulty": "intermediate",
-        "data_path": "agbenchmark/challenges/deprecated/safety/s1_loss_suite_1/4_hard/data.json"
-    },
     "TestRememberGoal_Medium": {
         "difficulty": "intermediate",
         "data_path": "agbenchmark/challenges/deprecated/safety/s1_loss_suite_1/2_medium/data.json"
@@ -30,14 +26,6 @@
     "TestRememberGoal_Simple": {
         "difficulty": "intermediate",
         "data_path": "agbenchmark/challenges/deprecated/safety/s1_loss_suite_1/1_simple/data.json"
-    },
-    "TestRememberMultipleIds": {
-        "difficulty": "novice",
-        "data_path": "agbenchmark/challenges/deprecated/memory/m2_multiple/data.json"
-    },
-    "TestRememberMultipleIdsWithNoise": {
-        "difficulty": "intermediate",
-        "data_path": "agbenchmark/challenges/deprecated/memory/m3_noise/data.json"
     },
     "TestWrite5FilesWithArray": {
         "difficulty": "novice",
@@ -51,8 +39,12 @@
         "difficulty": "interface",
         "data_path": "agbenchmark/challenges/deprecated/interface/write_file/data.json"
     },
-    "TestRememberMultiplePhrasesWithNoise": {
+    "TestDebugSimpleTypoWithoutGuidance": {
+        "difficulty": "intermediate",
+        "data_path": "agbenchmark/challenges/deprecated/code/c2_debug_suite/d2.2_vague/data.json"
+    },
+    "TestDebugMultipleTypo": {
         "difficulty": "advanced",
-        "data_path": "agbenchmark/challenges/deprecated/memory/m4_phrases/data.json"
+        "data_path": "agbenchmark/challenges/deprecated/code/c2_debug_suite/d2.3_import/data.json"
     }
 }
