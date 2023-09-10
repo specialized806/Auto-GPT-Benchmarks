@@ -15,6 +15,10 @@
         "difficulty": "novice",
         "data_path": "agbenchmark/challenges/deprecated/code/c2_debug_suite/d2.1_guided/data.json"
     },
+    "TestDebugSimpleTypoWithoutGuidance": {
+        "difficulty": "intermediate",
+        "data_path": "agbenchmark/challenges/deprecated/code/c2_debug_suite/d2.2_vague/data.json"
+    },
     "TestReadFile": {
         "difficulty": "interface",
         "data_path": "agbenchmark/challenges/deprecated/interface/read_file/data.json"
@@ -54,9 +58,5 @@
     "TestWriteFile": {
         "difficulty": "interface",
         "data_path": "agbenchmark/challenges/deprecated/interface/write_file/data.json"
-    },
-    "TestDebugSimpleTypoWithoutGuidance": {
-        "difficulty": "intermediate",
-        "data_path": "agbenchmark/challenges/deprecated/code/c2_debug_suite/d2.2_vague/data.json"
     }
 }
