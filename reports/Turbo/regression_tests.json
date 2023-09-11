@@ -1,8 +1,4 @@
 {
-    "TestBasicMemory": {
-        "difficulty": "basic",
-        "data_path": "agbenchmark/challenges/deprecated/memory/m1_id/data.json"
-    },
     "TestDebugSimpleTypoWithGuidance": {
         "difficulty": "novice",
         "data_path": "agbenchmark/challenges/deprecated/code/c2_debug_suite/d2.1_guided/data.json"
