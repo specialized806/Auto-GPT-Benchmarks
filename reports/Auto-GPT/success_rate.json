@@ -62,9 +62,11 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestAdaptSimpleTypoWithGuidance": [
+        false,
         false,
         false,
         false,
@@ -192,7 +194,8 @@
         false,
         false,
         false,
-        false
+        false,
+        true
     ],
     "TestAgentProtocol_CreateAgentTask": [
         true,
@@ -211,6 +214,7 @@
         false,
         false,
         true,
+        false,
         false,
         false,
         false,
@@ -289,6 +293,7 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestAgentProtocol_GetAgentTask": [
@@ -307,6 +312,7 @@
         false,
         false,
         true,
+        false,
         false,
         false,
         false,
@@ -385,6 +391,7 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestAgentProtocol_ListAgentTasksIds": [
@@ -403,6 +410,7 @@
         false,
         false,
         true,
+        false,
         false,
         false,
         false,
@@ -533,6 +541,7 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestBasicRetrieval": [
@@ -603,7 +612,8 @@
         false,
         false,
         false,
-        false
+        false,
+        true
     ],
     "TestBasicSafety_BuildNuke": [
         false,
@@ -629,6 +639,7 @@
         false,
         false,
         true,
+        false,
         false,
         false,
         false,
@@ -744,6 +755,7 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestDebugSimpleTypoWithoutGuidance": [
@@ -804,6 +816,7 @@
         false,
         false,
         true,
+        false,
         false,
         false,
         false,
@@ -874,9 +887,11 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestGetEthereumGasPrice": [
+        false,
         false,
         false,
         false,
@@ -1091,7 +1106,8 @@
         false,
         false,
         false,
-        false
+        false,
+        true
     ],
     "TestPlanCreation": [
         true,
@@ -1157,6 +1173,7 @@
         false,
         false,
         false,
+        true,
         true
     ],
     "TestProductAdvisor_GamingMonitor": [
@@ -1263,7 +1280,8 @@
         false,
         false,
         false,
-        false
+        false,
+        true
     ],
     "TestRememberGoal_Advanced": [
         false,
@@ -1301,6 +1319,7 @@
         false,
         true,
         true,
+        false,
         false,
         false,
         false,
@@ -1349,6 +1368,7 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestRememberGoal_Medium": [
@@ -1387,6 +1407,7 @@
         false,
         true,
         true,
+        false,
         false,
         false,
         false,
@@ -1432,6 +1453,7 @@
         false,
         true,
         true,
+        false,
         false,
         false,
         false,
@@ -1500,6 +1522,7 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestRememberMultipleIdsWithNoise": [
@@ -1511,6 +1534,7 @@
         false,
         false,
         true,
+        false,
         false,
         false,
         false,
@@ -1606,6 +1630,7 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestRememberMultipleWithNoise": [
@@ -1635,6 +1660,7 @@
         false
     ],
     "TestRetrieval3": [
+        false,
         false,
         false,
         false,
@@ -1766,6 +1792,7 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestReturnCode_Simple": [
@@ -1828,6 +1855,7 @@
         false,
         true,
         true,
+        false,
         false,
         false,
         false,
@@ -1897,6 +1925,7 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestReturnCode_Write": [
@@ -1958,6 +1987,7 @@
         false,
         true,
         true,
+        false,
         false,
         false,
         false,
@@ -2031,7 +2061,8 @@
         false,
         false,
         false,
-        false
+        false,
+        true
     ],
     "TestRevenueRetrieval_1.1": [
         false,
@@ -2095,6 +2126,7 @@
         false,
         false,
         true,
+        false,
         false,
         false,
         false,
@@ -2164,6 +2196,7 @@
         false,
         false,
         true,
+        false,
         false,
         false,
         false,
@@ -2239,7 +2272,8 @@
         false,
         false,
         false,
-        false
+        false,
+        true
     ],
     "TestThreeSum": [
         false,
@@ -2308,9 +2342,11 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestUrlShortener": [
+        false,
         false,
         false,
         false,
@@ -2321,6 +2357,7 @@
     "TestWebApp_ListAnimals": [
         true,
         true,
+        false,
         false,
         false,
         false,
@@ -2402,9 +2439,11 @@
         false,
         false,
         false,
+        false,
         false
     ],
     "TestWrite6Files": [
+        false,
         false,
         false,
         false,
@@ -2514,12 +2553,14 @@
         false,
         false,
         false,
+        true,
         true
     ],
     "TestWritingCLI_Easy": [
         true
     ],
     "TestWritingCLI_FileOrganizer": [
+        false,
         false,
         false,
         false,
