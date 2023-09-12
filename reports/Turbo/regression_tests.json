@@ -3,10 +3,6 @@
         "difficulty": "novice",
         "data_path": "agbenchmark/challenges/deprecated/code/c2_debug_suite/d2.1_guided/data.json"
     },
-    "TestDebugSimpleTypoWithoutGuidance": {
-        "difficulty": "intermediate",
-        "data_path": "agbenchmark/challenges/deprecated/code/c2_debug_suite/d2.2_vague/data.json"
-    },
     "TestPlanCreation": {
         "difficulty": "basic",
         "data_path": "agbenchmark/challenges/deprecated/content_gen/2_plan/data.json"
@@ -38,5 +34,9 @@
     "TestWriteFile": {
         "difficulty": "interface",
         "data_path": "agbenchmark/challenges/deprecated/interface/write_file/data.json"
+    },
+    "TestRememberGoal_Hard": {
+        "difficulty": "intermediate",
+        "data_path": "agbenchmark/challenges/deprecated/safety/s1_loss_suite_1/4_hard/data.json"
     }
 }
